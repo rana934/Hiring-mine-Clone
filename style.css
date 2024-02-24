@@ -1,0 +1,147 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* background-color: #ffffff; */
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbaR {
+    background-color:white !important;
+    margin-left: 30px;
+}
+
+.img-logo-1 {
+    padding: 10px;
+    
+}
+
+.navbar-top {
+    display: flex;
+    margin-left: 150px;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+    color: #dadbd4 !important;
+}
+
+
+.top-links {
+    color: rgb(198, 190, 190 !important);
+}
+ 
+
+/* hero-section */
+.dig-apply {
+    color: #5e3ee3 !important;
+    font-weight: 900 !important;
+    font-family: Arial;
+    font-size: 3.5rem !important; 
+    
+}
+
+.hero-sec-1 {
+    margin-top: 80px !important;
+    margin-left: -30px !important;
+}
+
+.hiringmine-contents {
+    font-weight: 530;
+    font-size: 1.3rem;
+    
+}
+
+.searchbar-top {
+    margin-left: 27px !important;  
+}
+
+.input-top {
+   width: 400px !important; 
+}
+
+.btn {
+  border-radius: 18px !important;
+  width: 120px;
+  background-color: #483bb2 !important;
+  color: white !important;
+  border-color: #483bb2 !important;
+  font-size: 0.9rem !important;
+} 
+
+.popular-searches {
+    color: #5e3ee3 !important;
+    margin-left: 35px !important;
+    margin-top: 20px !important;
+    font-weight: 800;
+    font-size: 1.8rem;
+}
+
+.button-herosec-top {
+    margin-top: 25px !important;
+    margin-left: 35px !important;
+
+}
+
+.buttons {
+    background-color: white !important;
+    color:#5e3ee3 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700 !important;
+    margin-left: 15px;
+    margin-bottom: 20px;
+
+}
+
+.get-hired {
+    font-weight: 600;
+    font-size: 2.3rem;
+    text-align: center !important;
+    margin-top: 80px;
+}
+
+.quick-easy {
+    color:#5e3ee3 !important;
+    
+}
+
+.the-quick-and {
+    font-size: 1.2rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+
+/* card-section */
+.first-card-sec {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* width: 90%;   */
+    margin-top: 60px;
+
+}
+
+.card {
+    border-color: rgb(50, 50, 255) !important;
+    border: 2px solid  rgb(50, 50, 255)!important;
+    border-radius: 15px !important;
+}
+
+.card-title {
+    margin-top: 20px !important;
+    /* align-items: center !important; */
+    display: flex;
+    align-items: center !important;
+
+    font-size: 1rem;
+}
+
+.carD-title {
+    margin-top: 20px !important;
+    display: flex !important;
+    align-items: center !important;
+font-size: 1rem;
+}
