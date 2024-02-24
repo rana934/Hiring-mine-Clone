@@ -130,18 +130,27 @@ font-family: Arial, Helvetica, sans-serif;
     border-radius: 15px !important;
 }
 
+
+
 .card-title {
     margin-top: 20px !important;
-    /* align-items: center !important; */
+    color: #483bb2 !important;
+    font-weight: 700;
+}
+
+.findyour {
+    font-size: 2.3rem;
+    font-weight: 600;
     display: flex;
-    align-items: center !important;
-
-    font-size: 1rem;
+    justify-content: center;
+    align-items: center;
 }
 
-.carD-title {
-    margin-top: 20px !important;
-    display: flex !important;
-    align-items: center !important;
-font-size: 1rem;
+.jobsuper {
+    font-weight: 600;
+    font-size: 2.3rem;
+    text-align: center !important;
+    margin-top: 80px;
+    color: #483bb2 !important;
 }
+
